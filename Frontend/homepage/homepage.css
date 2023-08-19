@@ -1,0 +1,21 @@
+html {
+  background: url(homepageBackground.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.homepage {
+  color: black;
+  text-align: center;
+  padding: 80px;
+  transform: scale(2.3);
+  font-family: poppins;
+  text-decoration: black underline;
+
+}
+
+.slogan {
+  padding-left: 200px;
+}
